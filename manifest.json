@@ -37,10 +37,16 @@
       "size": 449536
     },
     "mssmp3.asi": {
+      "distributions": [
+        "win32"
+      ],
       "sha256": "094cbb896e83d978fbe1f9bc1c6aca45430570e0a86790cfd4ef4f92a6063573",
       "size": 94208
     },
     "mssogg.asi": {
+      "distributions": [
+        "win32"
+      ],
       "sha256": "a4e3d0dfc61d5c4a470836ce4aff7eb025ac53c4326ef0be8636aba2fc1fbdf1",
       "size": 99840
     },
