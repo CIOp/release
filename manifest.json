@@ -15,8 +15,8 @@
       "size": 359232
     },
     "coginvasion.bin": {
-      "sha256": "5d8f7e6dc0acc9b9ec9546609187a5d63df5078cc68ab2150b2b6f7dadb2bf64",
-      "size": 9257121
+      "sha256": "cff1d4003fe2c6aa2d8b0fbd2f64e019af2da74067c6cd8b28049d626d65c6a0",
+      "size": 9256161
     },
     "coginvasion.exe": {
       "distributions": [
@@ -63,37 +63,37 @@
       "size": 5054152
     },
     "phase_13.mf": {
-      "size": 8885073
+      "size": 8884976
     },
     "phase_14.mf": {
-      "size": 10130319
+      "size": 10035155
     },
     "phase_3.5.mf": {
-      "size": 83254296
+      "size": 83246607
     },
     "phase_3.mf": {
-      "size": 25752335
+      "size": 25708115
     },
     "phase_4.mf": {
-      "size": 78464926
+      "size": 68103740
     },
     "phase_5.5.mf": {
       "size": 9562156
     },
     "phase_5.mf": {
-      "size": 69699254
+      "size": 69695734
     },
     "phase_6.mf": {
-      "size": 24544543
+      "size": 24544406
     },
     "phase_7.mf": {
-      "size": 13812658
+      "size": 12565563
     },
     "phase_8.mf": {
-      "size": 15526518
+      "size": 15526452
     },
     "phase_9.mf": {
-      "size": 6788360
+      "size": 6777970
     },
     "toonmono.cur": {
       "sha256": "7cd4536a37e965aaa40e001bf909ea6a077823e3d19b78a0d4f422cde6ada39e",
